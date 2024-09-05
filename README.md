@@ -31,5 +31,4 @@ This repository contains the lab assignments for a Deep Learning course. Each la
      - Long Short-Term Memory (LSTM)
      - Sequence prediction
      
-Each lab is provided as a Jupyter Notebook (`.ipynb`) file. To run the labs locally:
-
+Each lab is provided as a Jupyter Notebook (`.ipynb`) file.
